@@ -19,3 +19,4 @@ git
 ## In order to execute tests run...:
 
     env PYTHONPATH=. ./venv/bin/pytest test
+ 
